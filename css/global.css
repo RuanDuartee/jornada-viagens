@@ -38,6 +38,6 @@ button {
   box-sizing: border-box;
 }
 
-h1 {
-  color: var(--button-primary-color);
+body {
+  font-family: "Montserrat", sans-serif;
 }
