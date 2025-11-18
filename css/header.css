@@ -14,11 +14,11 @@ header {
   height: 64px;
 }
 
-.logo-mobile {
+.img-mobile {
   display: block;
 }
 
-.logo-desktop {
+.img-desktop {
   display: none;
 }
 
@@ -53,9 +53,6 @@ nav {
 }
 
 @media screen and (min-width: 768px) {
-  .navigation-menu {
-    margin-top: 0;
-  }
   .navigation-menu label {
     display: none;
   }
