@@ -22,7 +22,7 @@
 }
 
 /* PACOTES DE VIAGENS */
-/* .travel-packages.hero {
+.travel-packages.hero {
   margin-bottom: 88px;
 }
 .travel-packages .hero-img {
@@ -55,7 +55,7 @@
   color: var(--text-secondary-color);
   font-weight: var(--text-weight);
   line-height: 32px;
-} */
+}
 @media screen and (min-width: 768px) {
   .hero .hero-img {
     height: 620px;
